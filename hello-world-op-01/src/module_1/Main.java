@@ -1,3 +1,4 @@
+package module_1;
 import co.javaCourse.crearObjetos.Car;
 
 public class Main {
@@ -6,7 +7,6 @@ public class Main {
 
         /*
         ESTRUCTURAS DE DATOS, ARRAYS
-        test
          */
         //FORMA 1
         String[] nombres = new String[3];
