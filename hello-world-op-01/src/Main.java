@@ -6,6 +6,7 @@ public class Main {
 
         /*
         ESTRUCTURAS DE DATOS, ARRAYS
+        test
          */
         //FORMA 1
         String[] nombres = new String[3];
